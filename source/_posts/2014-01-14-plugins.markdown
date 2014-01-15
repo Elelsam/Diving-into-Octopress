@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Plugins"
+date: 2014-01-14 20:53:08 -0800
+comments: true
+categories: 
+---
+
+<!-- more -->
+
+Video: 

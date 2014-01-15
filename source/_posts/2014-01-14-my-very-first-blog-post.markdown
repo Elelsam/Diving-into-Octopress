@@ -6,9 +6,9 @@ comments: true
 categories: [code, Ruby]
 ---
 
-#Sample Post
-
 This is my first post. I am using Octopress blogging framework. It is actually very easy to use
+
+<!-- more -->
 
 For more great web development courses, check out [Tuts+ Premium](http://tutsplus.com).
 
