@@ -21,6 +21,13 @@ subscribe_email:
 # RSS feeds can list your email address if you like
 email:
 
+permalink_label: "&#9733;"
+permalink_label_feed: "&#9733;"
+linklog_marker:
+linklog_marker_position:
+linklog_marker_position_feed:
+standard_post_marker: "&#9733; "
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
